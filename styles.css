@@ -1,0 +1,23 @@
+body {
+  background: orange;
+}
+.wrapper {
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+.cls1 {
+  width: 20%;
+  position: absolute;
+  background: rebeccapurple;
+}
+.cls3 {
+  width: 20%;
+  position: absolute;
+  background: rebeccapurple;
+}
+.cls2 {
+  width: 40%;
+  position: absolute;
+  background: red;
+}
